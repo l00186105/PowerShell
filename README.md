@@ -1,2 +1,2 @@
 # PowerShell
-L00186105 PowerShell repository for IAC Module
+This repository is for PowerShell tasks for student L00186105 working with the IAC Module
